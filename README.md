@@ -1,7 +1,9 @@
 # PPE
 
 PPE é um projeto de aplicação web para planejamento, organização e acompanhamento dos estudos. Ele nasceu com o nome GN e está sendo desenvolvido para reunir cursos, conteúdos, compromissos, metas e histórico de aprendizagem em um único lugar.
-Status: em desenvolvimento inicial. As funcionalidades descritas abaixo representam o escopo planejado e não devem ser interpretadas como já implementadas.
+Status: em desenvolvimento inicial. 
+
+As funcionalidades descritas abaixo representam o escopo planejado e não devem ser interpretadas como já implementadas.
 
 ## Objetivo
 
